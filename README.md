@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 | ![React.js Badge](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white) | | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) |
 | ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) | | |
 
-![Nx Badge](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Nx Badge](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+ ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
 
 ![React Query](https://img.shields.io/badge/ReactQuery-000000?logo=react) ![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white) ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-764ABC?logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?logo=redux-saga&logoColor=white)
- ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?logo=react) ![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white)
+ ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?logo=react) ![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+
 
 
 
