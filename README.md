@@ -21,17 +21,19 @@ Here are some ideas to get you started:
 |-----------------------|-------------------|----------------------------------|
 | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=%23FFFFFF) | ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white) | ![Next.js Badge](https://img.shields.io/badge/Next.js-%23000000.svg?logo=next.js&logoColor=white) | ![Socket.io Badge](https://img.shields.io/badge/Socket.io-%23000000.svg?logo=socket.io&logoColor=white) |
 | ![TypeScript Badge](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)| ![Express.js Badge](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)|
-| ![React.js Badge](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white) | | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) |
+| ![React.js Badge](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=react&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) |
 | ![Node.js Badge](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white) | | |
 
 ![Nx Badge](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
- ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+ ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?&logo=graphql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
 
 
 ![React Query](https://img.shields.io/badge/ReactQuery-000000?logo=react) ![Redux Badge](https://img.shields.io/badge/Redux-%23764ABC.svg?logo=redux&logoColor=white) ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-764ABC?logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?logo=redux-saga&logoColor=white)
  ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?logo=react) ![Three.js](https://img.shields.io/badge/Three.js-black?logo=three.js) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongodb&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white)
 
 
 
